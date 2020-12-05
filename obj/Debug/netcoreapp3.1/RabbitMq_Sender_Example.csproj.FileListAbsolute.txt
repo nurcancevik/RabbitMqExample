@@ -1,0 +1,16 @@
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.AssemblyInfoInputs.cache
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.AssemblyInfo.cs
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.csproj.CoreCompileInputs.cache
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMq_Sender_Example.exe
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMq_Sender_Example.deps.json
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMq_Sender_Example.runtimeconfig.json
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMq_Sender_Example.runtimeconfig.dev.json
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMq_Sender_Example.dll
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMq_Sender_Example.pdb
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.csproj.CopyComplete
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.dll
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.pdb
+C:\Users\nurca\source\repos\RabbitMq_Sender_Example\obj\Debug\netcoreapp3.1\RabbitMq_Sender_Example.genruntimeconfig.cache
